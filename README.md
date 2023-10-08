@@ -17,4 +17,4 @@
 
 |Index| Description | Content Source Link |
 |:--:|:-------------|:------------------:|
-|08 Oct| |[open]
+|08 Oct|Stats Basics and Branches|[open](https://twitter.com/Kshitiztwt/status/1710869494967812100)|
