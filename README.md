@@ -18,3 +18,4 @@
 |Index| Description | Content Source Link |
 |:--:|:-------------|:------------------:|
 |08 Oct|Stats Basics and Branches|[open](https://twitter.com/Kshitiztwt/status/1710869494967812100)|
+|23 OCt|stats Week 1 learning summarised|[open](https://x.com/Kshitiztwt/status/1716498739328667981?s=20)|
