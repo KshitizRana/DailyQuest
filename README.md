@@ -1,5 +1,5 @@
-
-
+# Learn In Public
+![image](https://github.com/KshitizRana/DailyQuest/assets/93457779/1e8fb507-57af-4518-8dc4-8d3468daeef2)
 
 <div align="center">
   Banner created using: https://excalidraw.com/
@@ -17,5 +17,5 @@
 
 |Index| Description | Content Source Link |
 |:--:|:-------------|:------------------:|
-|08 Oct|Stats Basics and Branches|[open](https://twitter.com/Kshitiztwt/status/1710869494967812100)|
-|23 OCt|stats Week 1 learning summarised|[open](https://x.com/Kshitiztwt/status/1716498739328667981?s=20)|
+|30 Dec 2023|Java Basics|[open](https://twitter.com/Kshitiztwt/status/1741050754046242957)|
+
