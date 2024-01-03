@@ -21,4 +21,5 @@
 |31 Dec 2023|Java Input/Otput/Datatypes/typecasting|[open](https://twitter.com/Kshitiztwt/status/1741480710316212511)|
 |1 Jan 2024|Conditionals and loops|[open](https://twitter.com/Kshitiztwt/status/1741873190643589286)|
 |2 Jan 2024|Functions or methods|[open](https://twitter.com/Kshitiztwt/status/1742235266742469014)|
+|3 Jan 2024|Revision + assignment|[open](https://twitter.com/Kshitiztwt/status/1742617601707000055)|
 
