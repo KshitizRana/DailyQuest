@@ -22,4 +22,6 @@
 |1 Jan 2024|Conditionals and loops|[open](https://twitter.com/Kshitiztwt/status/1741873190643589286)|
 |2 Jan 2024|Functions or methods|[open](https://twitter.com/Kshitiztwt/status/1742235266742469014)|
 |3 Jan 2024|Revision + assignment|[open](https://twitter.com/Kshitiztwt/status/1742617601707000055)|
+|4 Jan 2024|Do you know|[open](https://twitter.com/Kshitiztwt/status/1742959214253809860)|
+|5 Jan 2024|Array in java|[open](https://twitter.com/Kshitiztwt/status/1743323790858158437)|
 
