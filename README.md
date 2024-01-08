@@ -24,4 +24,5 @@
 |3 Jan 2024|Revision + assignment|[open](https://twitter.com/Kshitiztwt/status/1742617601707000055)|
 |4 Jan 2024|Do you know|[open](https://twitter.com/Kshitiztwt/status/1742959214253809860)|
 |5 Jan 2024|Array in java|[open](https://twitter.com/Kshitiztwt/status/1743323790858158437)|
-
+|7 Jan 2024|Ques on HackerRank|[open](https://twitter.com/Kshitiztwt/status/1743708677918376271)|
+|8 Jan 2024|Linear Search Algorithm|[open](https://twitter.com/Kshitiztwt/status/1744420378951250340)|
