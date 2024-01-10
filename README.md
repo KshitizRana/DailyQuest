@@ -26,3 +26,5 @@
 |5 Jan 2024|Array in java|[open](https://twitter.com/Kshitiztwt/status/1743323790858158437)|
 |7 Jan 2024|Ques on HackerRank|[open](https://twitter.com/Kshitiztwt/status/1743708677918376271)|
 |8 Jan 2024|Linear Search Algorithm|[open](https://twitter.com/Kshitiztwt/status/1744420378951250340)|
+|8 Jan 2024|Solved Leetcode Questions|[open](https://twitter.com/Kshitiztwt/status/1744792666741543319)|
+|8 Jan 2024|Binary Search Algorithm|[open](https://twitter.com/Kshitiztwt/status/1745163196275560666)|
