@@ -29,3 +29,4 @@
 |10 Jan 2024|Solved Leetcode Questions|[open](https://twitter.com/Kshitiztwt/status/1744792666741543319)|
 |11 Jan 2024|Binary Search Algorithm|[open](https://twitter.com/Kshitiztwt/status/1745163196275560666)|
 |15 Jan 2024|Bubble Sort Algorithm|[open](https://twitter.com/Kshitiztwt/status/1746809384825754050)|
+|16 Jan 2024|Selection Sort Algorithm|[open](https://twitter.com/Kshitiztwt/status/1747337265737863306)|
