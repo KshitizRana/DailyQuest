@@ -32,4 +32,5 @@
 |17 Jan 2024|Selection Sort Algorithm|[open](https://twitter.com/Kshitiztwt/status/1747337265737863306)|
 |18 Jan 2024|Revision + leetcode ques|[open](https://twitter.com/Kshitiztwt/status/1748039842762478003)|
 |19 & 20 Jan 2024|Attended Growin community inperson Meetup|[open](https://twitter.com/Kshitiztwt/status/1748255279526051951)|
+|23 Jan 2024|Cyclic Sort Algorithm|[open](https://twitter.com/Kshitiztwt/status/1749850702732722494)|
 
